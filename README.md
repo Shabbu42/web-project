@@ -1,37 +1,127 @@
-## Welcome to GitHub Pages
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-You can use the [editor on GitHub](https://github.com/Shabbu42/web-project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<body>
+	<h1>TIME TABLE</h1>
+	<table border="5" cellspacing="0" align="center">
+		<!--<caption>Timetable</caption>-->
+		<tr>
+			<td align="center" height="50"
+				width="100"><br>
+				
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>1<br>9:00-09:50</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>2<br>09:50-10:40</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>3<br>10:40-11:30</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<br>4<br>11:30-12:20</b>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+                                                               </td>
+			<td align="center" height="50"
+				width="100">
+				<b>12:20-01:30</b>
 
-### Markdown
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>5<br>01:30-2:20</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>6<br>02:20-03:10</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>7<br>03:10-04:00</b>
+			
+			</td>
+		</tr>
+		<tr>
+			<td align="center" height="50">
+				<b>Monday</b></td>
+			<td align="center" height="50">CA-301</td>
+			<td align="center" height="50">CA-302</td>
+			<td align="center" height="50">CA-303</td>
+			<td rowspan="6" align="center" height="50">
+				<h2>L<br>U<br>N<br>C<br>H</h2>
+			</td>
+			<td colspan="3" align="center"
+				height="50">CA-311</td>
+			<td align="center" height="50">PPP(APTI)</td>
+		</tr>
+		<tr>
+			<td align="center" height="50">
+				<b>Tuesday</b>
+			</td>
+			<td colspan="3" align="center"
+				height="50">CA-311
+			</td>
+			<td align="center" height="50">CA-304</td>
+			<td align="center" height="50">CA-307</td>
+			<td align="center" height="50">PPP(Soft Skill)</td>
+			<td align="center" height="50">CA-303</td>
+		</tr>
+		<tr>
+			<td align="center" height="50">
+				<b>Wednesday</b>
+			</td>
+			<td align="center" height="50">CA-307</td>
+			<td align="center" height="50">CA-301</td>
+			<td align="center" height="50">CA-304</td>
+			<td align="center" height="50">CA-302</td>
+			<td colspan="3" align="center"
+				height="50">LIBRARY
+			</td>
+		</tr>
+		<tr>
+			<td align="center" height="50">
+				<b>Thursday</b>
+			</td>
+			<td align="center" height="50">CA-304</td>
+			<td align="center" height="50">CA-301</td>
+			<td align="center" height="50">CA-303</td>
+			<td colspan="3" align="center"
+				height="50">CA-312
+			</td>
+			<td align="center" height="50">CA-307</td>
+		</tr>
+		<tr>
+			<td align="center" height="50">
+				<b>Friday</b>
+			</td>
+			<td colspan="3" align="center"
+				height="50">CA-311
+			</td>
+			<td align="center" height="50">CA-301</td>
+			<td align="center" height="50">CA-302</td>
+			<td align="center" height="50">CA-303</td>
+			<td align="center" height="50">CA-307</td>
+		</tr>
+		<tr>
+			<td align="center" height="50">
+				<b>Saturday</b>
+			</td>
+			<td align="center" height="50">PPP(Soft Skill)</td>
+			<td align="center" height="50">CA-302</td>
+			<td align="center" height="50">CA-301</td>
+			<td colspan="3" align="center"
+				height="50">LIBRARY
+			</td>
+			<td align="center" height="50">CA-304</td>
+		</tr>
+	</table>
+</body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shabbu42/web-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
